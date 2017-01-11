@@ -1,0 +1,764 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"member",
+				"memberObject"
+			],
+			[
+				"conver",
+				"convertBirthDates"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"Get",
+				"GetBirthDates"
+			],
+			[
+				"use",
+				"useCanvas"
+			],
+			[
+				"o",
+				"orientation"
+			],
+			[
+				"handle",
+				"handleAuthorChange"
+			],
+			[
+				"get",
+				"getInitialState"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"Tod",
+				"TodoView"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wr",
+				"write"
+			],
+			[
+				"wro",
+				"wroxCount"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"d",
+				"text-decoration"
+			],
+			[
+				"fi",
+				"fibinacci"
+			],
+			[
+				"sq",
+				"square_root"
+			],
+			[
+				"fin",
+				"fibonacciNum"
+			],
+			[
+				"first",
+				"firstNum"
+			],
+			[
+				"secon",
+				"secondNum"
+			],
+			[
+				"se",
+				"secondNum"
+			],
+			[
+				"fir",
+				"firstNum"
+			],
+			[
+				"fib",
+				"fibonacciNum"
+			],
+			[
+				"R",
+				"ResultsP"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"to",
+				"todoView"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"in",
+				"initialize"
+			],
+			[
+				"todo",
+				"todoView"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"sibl",
+				"siblingAmount"
+			],
+			[
+				"margin",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/bestway/css/main.scss",
+			"settings":
+			{
+				"buffer_size": 2072,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/bestway/index.html",
+			"settings":
+			{
+				"buffer_size": 6578,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/bestway/parallax.html",
+			"settings":
+			{
+				"buffer_size": 2093,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/bestway/css/parallax.scss",
+			"settings":
+			{
+				"buffer_size": 1532,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/bestway/Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 1362,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/bestway/css/sprites.css",
+			"settings":
+			{
+				"buffer_size": 2121,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n	<title>Bestway Insulation</title>\n\n	<!-- link rel=\"stylesheet\" href=\"css/bootstrap.css\" / -->\n	<link rel=\"stylesheet\" href=\"css/main.css\" />\n\n\n</head>\n<body>\n	<!-- nav class=\"navbar navbar-default\" role=\"navigation\">\n	  <div class=\"container-fluid\">\n	    <!-- Brand and toggle get grouped for better mobile display  >\n	    <div class=\"navbar-header\">\n	      <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\" aria-expanded=\"false\">\n	        <span class=\"sr-only\">Toggle navigation</span>\n	        <span class=\"icon-bar\"></span>\n	        <span class=\"icon-bar\"></span>\n	        <span class=\"icon-bar\"></span>\n	      </button>\n	      <a class=\"navbar-brand\" href=\"#\">Bestway Insulation <span class=\"sr-only\">(current)</span></a>\n	    </div>\n\n	    <!-- Collect the nav links, forms, and other content for toggling  >\n	    <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n	      <ul class=\"nav navbar-nav\">\n	      	<li class=\"dropdown\"> \n	        	<a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Services <span class=\"caret\"></span></a> \n	        	<ul class=\"dropdown-menu\"> \n	        		<li><a href=\"#\">Action</a></li> \n	        		<li><a href=\"#\">Another action</a></li> \n	        		<li><a href=\"#\">Something else here</a></li> \n	        		<li role=\"separator\" class=\"divider\"></li> \n	        		<li><a href=\"#\">Separated link</a></li> \n	        	</ul> \n	        </li>\n	        <li><a href=\"#\">Pricing</a></li>\n	        <li><a href=\"#\">About Us</a></li>\n	        <li><a href=\"#\">Contact Us</a></li>\n	      </ul>\n	      \n	    </div><!-- /.navbar-collapse  >\n	  </div><!-- /.container-fluid  >\n	</nav -->\n\n	<div class=\"bgimg-1\">\n		<!--div class=\"caption\">\n		    <span class=\"border\">SCROLL DOWN</span>\n		</div -->\n	</div>\n\n	<!-- script type=\"text/javascript\" src=\"public/bower_components/jquery/dist/jquery.min.js\"></script>\n	<script type=\"text/javascript\" src=\"public/bower_components/bootstrap/dist/js/bootstrap.min.js\"></script -->\n</body>\n</html>\n\n\n\n/* VARIABLES */\n$min-height-full: 100%;\n\n/* END VARIABLES */\n\nbody {\n	font-family: \"Helvetica Neue\",Helvetica,Arial,sans-serif;\n	height: 100%;\n	margin: 0;\n}\n\n\n/* LINKS */\na {\n	color: #788;\n	font-size: 13px;\n}\n\n\n/* END LINKS */\n\n/* BACKGROUND IMAGES */\n.home-img-top, .bgimg-2, .bgimg-3 {\n  position: relative;\n  opacity: 0.65;\n  background-attachment: fixed;\n  background-position: center;\n  background-repeat: no-repeat;\n  background-size: cover;\n\n}\n\n.home-img-top {\n	background-image: url(\"../images/parallax/shopping.jpg\");\n	min-height: $min-height-full;\n}\n\n/* END BACKGROUND IMAGES */\n\n.caption {\n  position: absolute;\n  left: 0;\n  top: 50%;\n  width: 100%;\n  text-align: center;\n  color: #000;\n\n	span.border {\n		background-color: #111;\n		color: #fff;\n		padding: 18px;\n		font-size: 25px;\n		letter-spacing: 10px;\n	}\n}\n\n\n.bgimg-1, .bgimg-2, .bgimg-3 {\n  position: relative;\n  opacity: 0.65;\n  background-attachment: fixed;\n  background-position: center;\n  background-repeat: no-repeat;\n  background-size: cover;\n\n}\n\n.bgimg-1 {\n  background-image: url(\"../images/parallax/shopping.jpg\");\n  min-height: $min-height-full;\n}\n\n    color: #788;\n    font-size: 13px;\n    text-transform: uppercase;\n    letter-spacing: 1px;",
+			"settings":
+			{
+				"buffer_size": 3356,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/bestway/css/main.css",
+		"/C/xampp/htdocs/bestway/css/parallax.css",
+		"/C/xampp/htdocs/bestway/Gruntfile.js",
+		"/C/xampp/htdocs/angular/projects/suggestion-box/js/controllers/HomeController.js",
+		"/C/xampp/htdocs/angular/projects/suggestion-box/js/controllers/SuggestionController.js",
+		"/C/xampp/htdocs/angular/projects/suggestion-box/js/services/suggestions.js",
+		"/C/xampp/htdocs/angular/projects/suggestion-box/index.html",
+		"/C/xampp/htdocs/angular/projects/suggestion-box/js/views/home.html",
+		"/C/xampp/htdocs/angular/projects/suggestion-box/js/app.js",
+		"/C/xampp/htdocs/angular/projects/suggestion-box/js/views/suggestion.html",
+		"/C/xampp/htdocs/bestway/public/bower_components/bootstrap/bootstrap-sass-3.3.7.tar/bootstrap-sass-3.3.7/templates/project/styles.sass",
+		"/C/xampp/htdocs/bestway/css/bootstrap.css",
+		"/C/xampp/htdocs/bestway/public/bower_components/bootstrap/bootstrap-sass-3.3.7.tar/bootstrap-sass-3.3.7/templates/project/manifest.rb",
+		"/C/xampp/htdocs/bestway/public/bower_components/bootstrap/stylesheets/bootstrap/mixins/_alerts.scss",
+		"/C/xampp/htdocs/bestway/public/bower_components/bootstrap/stylesheets/bootstrap/_alerts.scss",
+		"/C/xampp/htdocs/bestway/public/bower_components/bootstrap/bootstrap-sass-3.3.7.tar/bootstrap-sass-3.3.7/lib/bootstrap-sass/engine.rb",
+		"/C/xampp/htdocs/bestway/public/bower_components/bootstrap/bootstrap-sass-3.3.7.tar/bootstrap-sass-3.3.7/templates/project/_bootstrap-variables.sass",
+		"/C/xampp/htdocs/bestway/package.json",
+		"/C/xampp/htdocs/bestway/js/main.js",
+		"/C/xampp/htdocs/bestway/css/main.scss",
+		"/C/xampp/htdocs/bestway/css/style.css",
+		"/C/xampp/htdocs/bestway/.bowerrc",
+		"/C/xampp/htdocs/bestway/bower.json",
+		"/C/xampp/htdocs/bestway/public/bower_components/bootstrap/less/buttons.less",
+		"/C/xampp/htdocs/bestway/.gitignore",
+		"/C/xampp/htdocs/bestway/.git/config",
+		"/C/Users/theWinces/AppData/Roaming/npm/node_modules/bower/package.json",
+		"/C/Users/theWinces/AppData/Roaming/npm/node_modules/bower/bin/bower",
+		"/C/Users/theWinces/AppData/Roaming/npm/bower",
+		"/C/xampp/htdocs/js-examples/js/my-demo.js",
+		"/C/xampp/htdocs/word-press/wordpress/wp-content/themes/twentyfourteen-child/style.css",
+		"/C/xampp/htdocs/js-examples/index.html",
+		"/C/xampp/htdocs/word-press/wordpress/wp-content/themes/twentyfourteen-child/functions.php",
+		"/C/xampp/htdocs/word-press/wordpress/wp-config.php",
+		"/C/xampp/htdocs/angular/index.html",
+		"/C/xampp/htdocs/angular/projects/suggestion-box/js/vendor/angular.min.js",
+		"/C/Users/THEWIN~1/AppData/Local/Temp/7zE8D76B674/Browse.Master",
+		"/C/Users/THEWIN~1/AppData/Local/Temp/7zE8D769404/AddressPartial.ascx",
+		"/E/My Documents/Fanatics/TCS.Website-Ed-final-master-srch-prom-mw.7z",
+		"/E/My Documents/Fanatics/TCS.Website-Ed-Final-MW-Search-prom.7z",
+		"/C/xampp/htdocs/nick-h/family_tree/js/core.js",
+		"/C/xampp/htdocs/nick-h/family_tree/js/to-objectify-core.js",
+		"/C/xampp/htdocs/js-examples/image-uploader.html",
+		"/C/xampp/htdocs/js-examples/js/image-uploader/load-image.js",
+		"/C/xampp/htdocs/js-examples/js/image-uploader/load-image-meta.js",
+		"/C/xampp/htdocs/js-examples/js/image-uploader/load-image-orientation.js",
+		"/C/xampp/htdocs/js-examples/js/image-uploader/load-image-exif.js",
+		"/C/xampp/htdocs/js-examples/js/image-uploader/load-image-exif-map.js",
+		"/C/xampp/htdocs/nick-h/family_tree/scripts/old file uploader script.php",
+		"/C/Users/theWinces/Desktop/.htaccess",
+		"/C/Users/theWinces/Desktop/php.ini",
+		"/C/Users/theWinces/AppData/Local/Temp/fz3temp-1/config.core.php",
+		"/C/Users/theWinces/AppData/Local/Temp/fz3temp-1/ht 3.access",
+		"/C/Users/theWinces/AppData/Local/Temp/fz3temp-1/ht 2.access",
+		"/C/Users/theWinces/Desktop/ht.access",
+		"/C/Users/theWinces/AppData/Local/Temp/fz3temp-1/ht.access",
+		"/C/Users/theWinces/AppData/Local/Temp/fz3temp-1/gdform.php",
+		"/C/xampp/htdocs/js-examples/js/image-uploader/jquery.Jcrop.js",
+		"/C/xampp/htdocs/js-examples/css/jquery.Jcrop.css",
+		"/C/xampp/htdocs/js-examples/css/core.css",
+		"/C/xampp/htdocs/nick-h/family_tree/js/jquery-validation-1.15.0 (1)/lib/jquery-1.11.1.js",
+		"/C/xampp/htdocs/nick-h/family_tree/js/jquery-validation-1.15.0 (1)/lib/jquery.js",
+		"/C/xampp/htdocs/nick-h/family_tree/js/image uploader/jquery.Jcrop.js",
+		"/C/xampp/htdocs/nick-h/family_tree/js/image uploader/load-image-exif-map.js",
+		"/C/xampp/htdocs/nick-h/family_tree/js/image uploader/load-image-exif.js",
+		"/C/xampp/htdocs/nick-h/family_tree/js/image uploader/load-image-meta.js",
+		"/C/xampp/htdocs/nick-h/family_tree/js/image uploader/load-image-orientation.js",
+		"/C/xampp/htdocs/nick-h/family_tree/js/image uploader/load-image.js",
+		"/C/xampp/htdocs/colosaa/www/core.js",
+		"/C/xampp/htdocs/colosaa/www/old-css.css",
+		"/C/xampp/htdocs/nick-h/family_tree/js/jquery-validation-1.15.0 (1)/dist/jquery.validate.js",
+		"/C/xampp/htdocs/nick-h/family_tree/js/jquery-validation-1.15.0 (1)/lib/jquery.form.js",
+		"/C/xampp/htdocs/nick-h/family_tree/js/validate.js",
+		"/C/xampp/htdocs/single-app/uploads/index.php",
+		"/C/xampp/htdocs/single-app/js/core.js",
+		"/C/xampp/htdocs/single-app/uploads/upload.php",
+		"/C/xampp/htdocs/single-app/css/core.css",
+		"/C/xampp/htdocs/wince/my-site/index.html",
+		"/C/xampp/htdocs/wince/my-site/css/main.css",
+		"/C/xampp/htdocs/wince/index.php",
+		"/C/xampp/htdocs/react/index.html",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/single-app/index.php",
+		"/C/xampp/htdocs/single-app/upload.php",
+		"/C/xampp/htdocs/react/js/core.js",
+		"/C/xampp/htdocs/react/api/comments/comments.json",
+		"/C/xampp/htdocs/react/js/core2.js",
+		"/C/xampp/htdocs/react/gulpfile.js",
+		"/C/xampp/htdocs/react/js/module2.js",
+		"/C/xampp/htdocs/react/js/module1.js",
+		"/C/xampp/htdocs/react/js/core-all.js",
+		"/C/xampp/htdocs/react/bower_components/react-15.0.1/build/react.js",
+		"/C/xampp/htdocs/react/bower_components/react-15.0.1/examples/webcomponents/index.html",
+		"/C/xampp/htdocs/react/bower_components/react-15.0.1/examples/basic/index.html",
+		"/C/xampp/htdocs/react/package.json",
+		"/C/xampp/htdocs/react/webpack.config.js",
+		"/C/xampp/htdocs/react/sass/header.scss",
+		"/C/xampp/htdocs/react/css/header.css",
+		"/C/xampp/htdocs/react/dist/css/header.css",
+		"/C/xampp/htdocs/wince/css/style.css",
+		"/C/xampp/htdocs/react/dist/all.js",
+		"/C/xampp/htdocs/react/dist/js/all.min.js",
+		"/C/xampp/htdocs/react/bower_components/jquery/dist/jquery.js",
+		"/C/xampp/htdocs/backbone-test/index.html",
+		"/C/xampp/htdocs/wince/my-site/foundation.html",
+		"/C/xampp/htdocs/wince/my-site/css/foundation.css",
+		"/C/xampp/htdocs/wince/my-site/css/app.css",
+		"/C/xampp/htdocs/wince/my-site/js/vendor/what-input.js",
+		"/C/xampp/htdocs/wince/my-site/css/foundation/css/foundation.css",
+		"/C/xampp/htdocs/wince/my-site/css/foundation/css/app.css",
+		"/C/xampp/htdocs/wince/My Site/index.html",
+		"/C/xampp/htdocs/wince/My Site/css/main.css",
+		"/C/Users/theWinces/Documents/Fanatics/MobileBalance/components/AlertMessage.js",
+		"/C/Users/theWinces/Documents/Fanatics/MobileBalance/eventManagers/FilterEventManager.js",
+		"/C/Users/theWinces/Documents/Fanatics/MobileBalance/controllers/CartPage.js",
+		"/C/xampp/htdocs/job test/codetest-1-master-a226bf7402d50687f3c423cc3f9d5b1e6c829936 (1)/codetest-1-master-a226bf7402d50687f3c423cc3f9d5b1e6c829936/code.js",
+		"/C/xampp/htdocs/job test/codetest-1-master-a226bf7402d50687f3c423cc3f9d5b1e6c829936 (1)/codetest-1-master-a226bf7402d50687f3c423cc3f9d5b1e6c829936/code.cs",
+		"/C/xampp/htdocs/job test/codetest-1-master-a226bf7402d50687f3c423cc3f9d5b1e6c829936/README.md",
+		"/C/xampp/htdocs/colosaa/files/core.css",
+		"/C/xampp/htdocs/wince/backbone/intro/index.html",
+		"/C/xampp/htdocs/wince/backbone/intro/javascript/demo.js",
+		"/C/xampp/htdocs/Code Reviews/FinalProject/FinalProject/final.html",
+		"/C/xampp/htdocs/wince/backbone/javascript/underscore.js",
+		"/C/xampp/htdocs/wince/backbone/javascript/backbone.js",
+		"/C/xampp/htdocs/wince/backbone/javascript/jquery-1.11.3.min.js",
+		"/C/xampp/htdocs/modx-2.3.2-pl-family-tree-stage/assets/scripts/dfCookie.php",
+		"/C/xampp/htdocs/wince/js/core.js",
+		"/C/xampp/htdocs/modx-2.3.2-pl-family-tree-stage/assets/scripts/Library.php"
+	],
+	"find":
+	{
+		"height": 62.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"html",
+			"image",
+			"convertBirthDate",
+			"parentDobDay",
+			"png",
+			"/",
+			"/p",
+			"/png",
+			"displayExifData",
+			"replaceResults",
+			"originalTransformCoordinates",
+			"Orientation",
+			"originalTransformCoordinates",
+			"displayExifData",
+			"orientation",
+			"loadImage",
+			"translate",
+			"displayExifData",
+			"coordinates",
+			"orientation",
+			"coords",
+			"coordinates",
+			"data",
+			"displayExifData",
+			"orientation",
+			"originalGetTransformedOptions",
+			"scale",
+			"replaceResults",
+			"getTransformedOptions",
+			"loadedImage",
+			"displayImage",
+			"useCanvas",
+			"getTransformedOptions",
+			"testcanvas",
+			"hasCanvasOption",
+			"canvas",
+			"getContext",
+			"parseMetaData",
+			"displayExifData",
+			"orientation",
+			"loadImage.ExifMap",
+			"exif",
+			"Make",
+			"ImageDescription",
+			"\nImageDescription",
+			"\nImageDescription\nImageDescription",
+			"\nImageDescription",
+			"hasCanvasOption",
+			"expect",
+			"orientation",
+			"undefined",
+			"	\n",
+			"onCommentSubmit",
+			"JANET DES",
+			"terry",
+			"currentState",
+			"displayChi",
+			"john",
+			"mid",
+			"familyUrl",
+			"parent",
+			"}",
+			"82",
+			"memberInfoPlaceholder",
+			"['spouse",
+			"memberCount",
+			"memberInfoPlaceholder",
+			"data[b]",
+			"url",
+			"haschildren",
+			"di.",
+			"fi.",
+			"childDobYear",
+			"fi.childDobDay",
+			"fi.parentDobDay",
+			"fi.parentDobMonth",
+			"fi.parentDobYear",
+			"fi.dobYear",
+			"fi.dobMonth",
+			"fi.dobDay",
+			"fi.dobMonth",
+			"fi.dobYear",
+			"body",
+			"init",
+			"homepage",
+			"constructor"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"occupation",
+			"birthState",
+			"childInfoPlaceholder",
+			"['childSpouse",
+			"childrenCount",
+			"childInfoPlaceholder",
+			"b",
+			"fi.",
+			"di.",
+			"dobYear",
+			"dobDay",
+			"fi.childDobDay",
+			"fi.childDobMonth",
+			"fi.childDobYear",
+			"fi.parentDobYear",
+			"fi.parentDobMonth",
+			"fi.parentDobDay",
+			"fi.spouseDobDay",
+			"fi.spouseDobMonth",
+			"fi.spouseDobYear"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/bestway/css/main.scss",
+					"settings":
+					{
+						"buffer_size": 2072,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								374,
+								374
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 150.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/bestway/index.html",
+					"settings":
+					{
+						"buffer_size": 6578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3960,
+								3960
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 375.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/bestway/parallax.html",
+					"settings":
+					{
+						"buffer_size": 2093,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/bestway/css/parallax.scss",
+					"settings":
+					{
+						"buffer_size": 1532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1532
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/xampp/htdocs/bestway/Gruntfile.js",
+					"settings":
+					{
+						"buffer_size": 1362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								851,
+								851
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/xampp/htdocs/bestway/css/sprites.css",
+					"settings":
+					{
+						"buffer_size": 2121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"settings":
+					{
+						"buffer_size": 3356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3356,
+								3267
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1710.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
